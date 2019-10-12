@@ -1,0 +1,13 @@
+D:\CodeineSolm\Code\Projects\ShutdownPC\bin\Debug\ShutdownPC.exe.config
+D:\CodeineSolm\Code\Projects\ShutdownPC\bin\Debug\ShutdownPC.exe
+D:\CodeineSolm\Code\Projects\ShutdownPC\bin\Debug\ShutdownPC.pdb
+D:\CodeineSolm\Code\Projects\ShutdownPC\obj\Debug\ShutdownPC.csprojAssemblyReference.cache
+D:\CodeineSolm\Code\Projects\ShutdownPC\obj\Debug\ShutdownPC.Properties.Resources.resources
+D:\CodeineSolm\Code\Projects\ShutdownPC\obj\Debug\ShutdownPC.csproj.GenerateResource.cache
+D:\CodeineSolm\Code\Projects\ShutdownPC\obj\Debug\ShutdownPC.csproj.CoreCompileInputs.cache
+D:\CodeineSolm\Code\Projects\ShutdownPC\obj\Debug\ShutdownPC.exe
+D:\CodeineSolm\Code\Projects\ShutdownPC\obj\Debug\ShutdownPC.pdb
+D:\CodeineSolm\Code\Projects\ShutdownPC\bin\Debug\MetroFramework.dll
+D:\CodeineSolm\Code\Projects\ShutdownPC\bin\Debug\MetroFramework.Fonts.dll
+D:\CodeineSolm\Code\Projects\ShutdownPC\obj\Debug\ShutdownPC.MainForm.resources
+D:\CodeineSolm\Code\Projects\ShutdownPC\obj\Debug\ShutdownPC.csproj.CopyComplete
