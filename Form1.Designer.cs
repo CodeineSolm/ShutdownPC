@@ -45,7 +45,12 @@
             "2 hours",
             "3 hours",
             "4 hours",
-            "5 hours"});
+            "5 hours",
+            "6 hours",
+            "7 hours",
+            "8 hours",
+            "9 hours",
+            "10 hours"});
             this.ShutdownCombobox.Location = new System.Drawing.Point(23, 63);
             this.ShutdownCombobox.Name = "ShutdownCombobox";
             this.ShutdownCombobox.Size = new System.Drawing.Size(121, 29);

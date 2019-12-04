@@ -10,3 +10,16 @@ D:\CodeineSolm\Code\Projects\ShutdownPC\obj\x86\Release\ShutdownPC.csproj.CoreCo
 D:\CodeineSolm\Code\Projects\ShutdownPC\obj\x86\Release\ShutdownPC.csproj.CopyComplete
 D:\CodeineSolm\Code\Projects\ShutdownPC\obj\x86\Release\ShutdownPC.exe
 D:\CodeineSolm\Code\Projects\ShutdownPC\obj\x86\Release\ShutdownPC.pdb
+D:\CodeineSolm\Code\GitHub\ShutdownPC\bin\x86\Release\ShutdownPC.exe.config
+D:\CodeineSolm\Code\GitHub\ShutdownPC\bin\x86\Release\ShutdownPC.exe
+D:\CodeineSolm\Code\GitHub\ShutdownPC\bin\x86\Release\ShutdownPC.pdb
+D:\CodeineSolm\Code\GitHub\ShutdownPC\bin\x86\Release\MetroFramework.dll
+D:\CodeineSolm\Code\GitHub\ShutdownPC\bin\x86\Release\MetroFramework.Fonts.dll
+D:\CodeineSolm\Code\GitHub\ShutdownPC\obj\x86\Release\ShutdownPC.csprojAssemblyReference.cache
+D:\CodeineSolm\Code\GitHub\ShutdownPC\obj\x86\Release\ShutdownPC.MainForm.resources
+D:\CodeineSolm\Code\GitHub\ShutdownPC\obj\x86\Release\ShutdownPC.Properties.Resources.resources
+D:\CodeineSolm\Code\GitHub\ShutdownPC\obj\x86\Release\ShutdownPC.csproj.GenerateResource.cache
+D:\CodeineSolm\Code\GitHub\ShutdownPC\obj\x86\Release\ShutdownPC.csproj.CoreCompileInputs.cache
+D:\CodeineSolm\Code\GitHub\ShutdownPC\obj\x86\Release\ShutdownPC.csproj.CopyComplete
+D:\CodeineSolm\Code\GitHub\ShutdownPC\obj\x86\Release\ShutdownPC.exe
+D:\CodeineSolm\Code\GitHub\ShutdownPC\obj\x86\Release\ShutdownPC.pdb
