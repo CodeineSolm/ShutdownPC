@@ -54,7 +54,7 @@
             this.ShutdownCombobox.Location = new System.Drawing.Point(23, 63);
             this.ShutdownCombobox.Name = "ShutdownCombobox";
             this.ShutdownCombobox.Size = new System.Drawing.Size(121, 29);
-            this.ShutdownCombobox.TabIndex = 0;
+            this.ShutdownCombobox.TabIndex = 0;            
             // 
             // ShutdownButton
             // 

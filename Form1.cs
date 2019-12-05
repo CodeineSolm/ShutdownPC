@@ -52,6 +52,6 @@ namespace ShutdownPC
         private void StopShutdownButton_Click(object sender, EventArgs e)
         {
             Process.Start("cmd", "/c shutdown -a");
-        }
+        }     
     }
 }
